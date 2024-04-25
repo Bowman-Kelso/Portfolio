@@ -6,4 +6,7 @@ This project allows users to play the card game known as California Speed. The o
 
 ![](https://github.com/Bowman-Kelso/Portfolio/blob/main/media/CaliforniaSpeed.gif)
 
-##
+## Hangman
+This project allows users to play the popular word-guessing game, Hangman. To add some competition, user high scores are stored and displayed at the end of each game. This allows users to compete with each other. Custom graphics were created for each frame of the hangman's progression during the game and provide a visual indicator to the user of their status in the game.
+
+![](https://github.com/Bowman-Kelso/Portfolio/blob/main/media/Hangman.gif)
