@@ -11,5 +11,5 @@ This project allows users to play the popular word-guessing game, Hangman. To ad
 
 ![](https://github.com/Bowman-Kelso/Portfolio/blob/main/media/Hangman.gif)
 
-## 💲[Banking App](https://github.com/Bowman-Kelso/Portfolio/tree/main/BankingApp)
+## [💲Banking App](https://github.com/Bowman-Kelso/Portfolio/tree/main/BankingApp)
 This project has all the basic functionality of a standard banking web app. Users are able to create accounts, deposit/withdraw money from 3 different accounts, and transfer funds between the 3 accounts.
